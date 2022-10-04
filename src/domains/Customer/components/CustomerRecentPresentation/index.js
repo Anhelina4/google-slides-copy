@@ -1,0 +1,3 @@
+import CustomerRecentPresentation from "./CustomerRecentPresentation"
+
+export default CustomerRecentPresentation

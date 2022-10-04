@@ -1,0 +1,30 @@
+:root {
+  --font-family-default: 'Google Sans', Roboto, Arial, sans-serif;
+  --bs-default: inset 1px 1px 0 rgb(0 0 0 / 10%), inset 0 -1px 0 rgb(0 0 0 / 7%);
+
+  /* BR */
+  --br-default: 0px;
+  --br-4: 4px;
+  --br-circle: 50%;
+
+  /* Elements */
+  /* Button */
+  --btn-size-default: 16px;
+  --btn-shape-default: 0px;
+
+  /* Icon */
+  --icon-size: 20px;
+  --icon-color-accent: var(--text-accent);
+  --icon-color-default: var(--text-primary);
+
+  /* Input */
+  --input-bg-default: var(--bg-grey);
+
+  /* PresentationSimpleView */
+  --presentation-simple-view-height: 96px;
+  --presentation-simple-view-width: 170px;
+  --presentation-simple-view-b: 1px solid var(--bc-primary-lighten5);
+
+  /* PresentationListWrapper */
+  --presentation-list-width: 70vw;
+}

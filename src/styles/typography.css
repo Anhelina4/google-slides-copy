@@ -1,0 +1,51 @@
+:root {
+  /* Font weight */
+  --title-fw-bold: 700;
+  --title-fw-semibold: 600;
+  --title-fw-medium: 500;
+  --title-fw-regular: 400;
+
+  /* Letter spacing */
+  --title-letter-spacing: 0.25rem;
+
+  /* TYPOGRAPHY */
+  --ff-secondary: 'Roboto', sans-serif;
+
+  /* Font size */
+  --title-h1-fs: 3.75rem; /* 60px */
+  --title-h2-fs: 3rem; /* 48px */
+  --title-h3-fs: 2.5rem; /* 40px */
+  --title-h4-fs: 2rem; /* 32px */
+  --title-h5-fs: 1.5rem; /* 24px */
+  --title-h6-fs: 1rem; /* 16px */
+
+  /* Line height */
+  --title-h1-lh: 4.5rem; /* 72px */
+  --title-h2-lh: 3.5rem; /* 56px */
+  --title-h3-lh: 3rem; /* 48px */
+  --title-h4-lh: 2.5rem; /* 40px */
+  --title-h5-lh: 2rem; /* 32px */
+  --title-h6-lh: 1.5rem; /* 24px */
+
+  /* Text */
+  /* Font weight */
+  --text-fw-bold: 700;
+  --text-fw-semibold: 600;
+  --text-fw-medium: 500;
+  --text-fw-regular: 400;
+
+  --ff-primary: 'Roboto', sans-serif;
+
+  --text-caption1-letter-spacing: 0.125rem;
+  --text-caption2-letter-spacing: 0.25rem;
+
+  /* Font size */
+  --text-body1-fs: 1rem; /* 14px */
+  --text-body2-fs: 0.825rem; /* 14px */
+  --text-caption1-fs: 0.625rem; /* 10px */
+
+  /* Line height */
+  --text-body1-lh: 1.5rem; /* 24px */
+  --text-body2-lh: 1.25rem; /* 20px */
+  --text-caption1-lh: 0.75rem; /* 12px */
+}
